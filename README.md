@@ -8,8 +8,13 @@ Solution Name: LayeredArchitectureSolution
 Class Library and ASP.NET Core Web API
 
 LayeredArchitectureSolution
+
 │
+
 ├── LayeredArchitecture.Core
+
 ├── LayeredArchitecture.Infrastructure
+
 ├── LayeredArchitecture.Application
+
 └── LayeredArchitecture.WebAPI
